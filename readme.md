@@ -1,3 +1,21 @@
+# A simple blog on the Laravel framework + Twitter Bootstrap
+
+## Blog can : 
+- Display last 10 publications on main page of site with title, description, date of creation and author
+- Show full publication on new page with title, text, date of creation, author and count of views
+- Display information of blog : count of publications, the most popular publication of views and author this publication, last changing publication of date
+- Contact with site administration with help email, with saving information in database
+
+## The site administration can :
+- Entrance in panel of administration with email and password
+- Public registration a new user with email and password
+- Restore password if user forgot
+- Add new publication with title, description, full text with WYSIWYG HTML Editor and with saving the author publication
+- Edit publication with WYSIWYG HTML Editor and with saving the author publication and date of changing
+- Deleting publications
+
+## As frontend use the last version of Twitter Bootstrap
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
