@@ -16,6 +16,8 @@
 
 ## As frontend use the last version of Twitter Bootstrap
 
+![screen](screen.jpg)
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
